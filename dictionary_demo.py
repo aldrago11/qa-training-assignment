@@ -2,7 +2,7 @@
 person = {
     "name": "Ashish",
     "age": 22,
-    "city": "Kathmandu"
+    "city": "pokhara"
 }
 
 for key, value in person.items():

@@ -1,5 +1,5 @@
 
 def greet():
-    print("Welcome to QA Training!")
+    print("Welcome to QA class!")
 
 greet()
